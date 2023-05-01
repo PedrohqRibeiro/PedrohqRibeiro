@@ -12,4 +12,6 @@ E iniciando os estudos com:
 ao decorrer da minha evolução vou colocando os meus projetos aqui!
 <br>
 <br>
-[![Pedro stats](https://github-readme-stats.vercel.app/api?username=PedrohqRibeiro)](https://github.com/anuraghazra/github-readme-stats)
+[![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrohqRibeiro)](https://github.com/anuraghazra/github-readme-stats)
+
+
