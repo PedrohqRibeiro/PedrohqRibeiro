@@ -10,3 +10,5 @@ E iniciando os estudos com:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <br>
 ao decorrer da minha evolução vou colocando os meus projetos aqui!!
+
+[![Pedro stats](https://github-readme-stats.vercel.app/api?username=PedrohqRibeiro)](https://github.com/anuraghazra/github-readme-stats)
