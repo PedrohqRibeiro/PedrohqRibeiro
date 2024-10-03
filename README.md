@@ -10,7 +10,7 @@ Prazer, eu sou o Pedro, sou um programador Fullstack! No momento, estou fazendo 
 <img src="https://img.shields.io/badge/Styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
 ### Iniciando os estudos em:
-<img src="https://img.shields.io/badge/C%20Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+- **C# (C Sharp)**
 
 Ao decorrer da minha evolução, vou colocando os meus projetos aqui!
 
