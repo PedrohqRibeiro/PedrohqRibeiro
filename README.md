@@ -12,7 +12,6 @@ Prazer, eu sou o Pedro, sou um programador Fullstack! No momento, estou fazendo 
  Iniciando os estudos em:
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
-
 Ao decorrer da minha evolução, vou colocando os meus projetos aqui!
 
 [![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrohqRibeiro)](https://github.com/anuraghazra/github-readme-stats)
