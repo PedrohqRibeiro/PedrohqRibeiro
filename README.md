@@ -9,6 +9,9 @@ Prazer, eu sou o Pedro, sou um programador Fullstack! No momento, estou fazendo 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/Styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
+### Iniciando os estudos em:
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+
 Ao decorrer da minha evolução, vou colocando os meus projetos aqui!
 
 [![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrohqRibeiro)](https://github.com/anuraghazra/github-readme-stats)
